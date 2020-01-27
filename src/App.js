@@ -23,8 +23,8 @@ function App() {
         <nav>
           <ul className="nav-links">
             <li><a class="nav-link" href="#">Specs</a></li>
-            <li><a class="nav-link" href="#">Products</a></li>
-            <li><a class="nav-link" href="#">Contact</a></li>
+            <li><a class="nav-link" href="#">Produtos</a></li>
+            <li><a class="nav-link" href="#">Contato</a></li>
           </ul>
         </nav>
         <div className="cart">
